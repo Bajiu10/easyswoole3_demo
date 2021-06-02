@@ -14,7 +14,7 @@ git clone https://github.com/HeKunTong/easyswoole3_demo.git
 composer install
 ```
 
-> php vendor/easyswoole/easyswoole/bin/easyswoole.php install
+> php vendor/easyswoole/easyswoole/bin/easyswoole install
 
 tips: 安装生成文件时不要覆盖dev.php和EasySwooleEvent.php文件
 
